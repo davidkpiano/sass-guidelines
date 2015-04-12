@@ -13,7 +13,7 @@ The point is not to turn CSS into a fully-featured programming language; Sass on
 
 That being said, there are many ways to use these features. Some good, some bad, some unusual. These guidelines are meant to give you a consistent and documented approach to writing Sass code.
 
-### Further reading
+###### Further reading
 
 * [Sass](http://sass-lang.com)
 * [Sass documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
@@ -35,7 +35,7 @@ On non-Ruby projects that need a workflow integration, LibSass is probably a bet
 
 
 
-### Further reading
+###### Further reading
 
 * [LibSass](https://github.com/sass/libsass)
 * [Getting to know LibSass](http://webdesign.tutsplus.com/articles/getting-to-know-libsass--cms-23114)
@@ -61,7 +61,7 @@ I, myself, prefer SCSS over Sass because it is closer to CSS and friendlier to m
 
 
 
-### Further reading
+###### Further reading
 
 * [What’s the difference between Sass and SCSS](http://www.sitepoint.com/whats-difference-sass-scss/)
 
@@ -90,7 +90,7 @@ While providing tomorrow’s syntax today is something of a noble idea, I have t
 
 
 
-### Further reading
+###### Further reading
 
 * [LESS](http://lesscss.org/)
 * [Stylus](http://learnboost.github.io/stylus/)

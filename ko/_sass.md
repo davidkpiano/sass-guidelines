@@ -13,7 +13,7 @@ Sass는 이런 상황에서, 초언어로서, 추가 기능과 유용한 도구�
 
 그렇다고는 하나, 이 기능들을 사용하는 데에는 많은 방법들이 있습니다. 좋은 것도 있고, 나쁜 것도, 예외적인 것도 있죠. 이 가이드라인은 여러분에게 Sass 코드 작성에 대한 일관되고, 기록된 접근법을 제공할 것입니다.
 
-### 참고
+###### 참고
 
 * [Sass](http://sass-lang.com)
 * [Sass documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
@@ -35,7 +35,7 @@ Sass는 이런 상황에서, 초언어로서, 추가 기능과 유용한 도구�
 
 
 
-### 참고
+###### 참고
 
 * [LibSass](https://github.com/sass/libsass)
 * [Sass-Compatibility](http://sass-compatibility.github.io)
@@ -60,7 +60,7 @@ Sass의 공백에 반응하는 구문은 중괄호, 세미콜론 그리고 다�
 
 
 
-### 참고
+###### 참고
 
 * [What’s the difference between Sass and SCSS](http://www.sitepoint.com/whats-difference-sass-scss/)
 
@@ -91,7 +91,7 @@ Sass 외에도 여러 전처리기들이 있습니다. 가장 만만찮은 경�
 
 
 
-### 참고
+###### 참고
 
 * [LESS](http://lesscss.org/)
 * [Stylus](http://learnboost.github.io/stylus/)

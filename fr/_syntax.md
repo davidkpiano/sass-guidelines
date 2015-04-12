@@ -198,7 +198,7 @@ Les URL doivent être écrites entre guillemets pour les mêmes raisons que ci-d
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [All You Ever Need to Know About Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
 * [SassyStrings](https://github.com/HugoGiraudel/SassyStrings)
@@ -434,7 +434,7 @@ Est-il utile de préciser que **les nombres magiques sont une plaie et doivent �
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [Use Lengths, Not Strings](http://hugogiraudel.com/2013/09/03/use-lengths-not-strings/)
 * [Correctly Adding Unit to Number](http://css-tricks.com/snippets/sass/correctly-adding-unit-number/)
@@ -633,7 +633,7 @@ Si vous ne voulez pas écrire la fonction `mix` à chaque fois, vous pouvez cré
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [A Visual Guide to Sass & Compass Color Functions](http://jackiebalzer.com/color)
 * [How to Programmatically Go From One Color to Another](http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass)
@@ -733,7 +733,7 @@ $shadows: $shadows, $shadow
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [Understanding Sass lists](http://hugogiraudel.com/2013/07/15/understanding-sass-lists/)
 * [SassyLists](http://sassylists.com)
@@ -878,7 +878,7 @@ Si vous voulez connaître la profondeur de la map, ajoutez également la fonctio
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [Using Sass Maps](http://www.sitepoint.com/using-sass-maps/)
 * [Debugging Sass Maps](http://www.sitepoint.com/debugging-sass-maps/)
@@ -1006,7 +1006,7 @@ Illustration:
 
 
 
-### Lecture complémentaire
+### Lectures complémentaires
 
 * [Anatomy of a Ruleset](http://cssguidelin.es/#anatomy-of-a-ruleset)
 
@@ -1147,7 +1147,7 @@ C’est la raison pour laquelle je ne recommande pas de choix particulier dans c
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [CSS Comb](https://github.com/csscomb/csscomb.js)
 * [Concentric CSS](https://github.com/brandon-rhodes/Concentric-CSS)
@@ -1396,7 +1396,7 @@ Comme pour toute chose, ce qui compte ce ne sont pas les détails mais la cohér
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [Beware of Selector Nesting](http://www.sitepoint.com/beware-selector-nesting-sass/)
 * [The Inception Rule](http://thesassway.com/beginner/the-inception-rule)

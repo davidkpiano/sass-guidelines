@@ -13,7 +13,7 @@ Sass 프로젝트에는 경고와 오류의 여지가 많이 있습니다. 기�
 
 
 
-### 참고
+###### 참고
 
 * [An Introduction To Error Handling](http://webdesign.tutsplus.com/tutorials/an-introduction-to-error-handling-in-sass--cms-19996)
 * [Building a Logger Mixin](http://webdesign.tutsplus.com/tutorials/building-a-logger-mixin-in-sass--cms-22070)

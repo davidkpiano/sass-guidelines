@@ -28,7 +28,7 @@ Anyway, I do not forbid the use of Compass although I would not recommend it eit
 
 
 
-### Further reading
+###### Further reading
 
 * [Compass](http://compass-style.org/)
 * [Sass Frameworks: Compass or Bourbon](http://www.sitepoint.com/compass-or-bourbon-sass-frameworks/)
@@ -54,7 +54,7 @@ Or you can head over to something a bit more casual, like [csswizardry-grids](ht
 
 
 
-### Further reading
+###### Further reading
 
 * [Singularity](http://singularity.gs/)
 * [Singularity: Grids Without Limits](http://fourword.fourkitchens.com/article/singularity-grids-without-limits)
@@ -89,7 +89,7 @@ Fortunately, SCSS-lint recommendations are very similar to those described in th
 
 
 
-### Further reading
+###### Further reading
 
 * [SCSS-lint](https://github.com/causes/scss-lint)
 * [Clean Up your Sass with SCSS-lint](http://blog.martinhujer.cz/clean-up-your-sass-with-scss-lint/)

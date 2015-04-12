@@ -67,7 +67,7 @@ $breakpoints: ('graine': (min-width: 800px), 'pousse': (min-width: 1000px), 'pla
 </div>
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [Naming Media Queries](http://css-tricks.com/naming-media-queries/)
 
@@ -131,7 +131,7 @@ Une fois vos points de rupture nommés comme vous le souhaitez, il vous faut un 
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [Managing Responsive Breakpoints in Sass](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
 * [Approaches to Media Queries in Sass](http://css-tricks.com/approaches-media-queries-sass/)
@@ -196,7 +196,7 @@ Maintenant, si vous êtes vraiment soucieux d’éviter toute duplication, vous 
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [Sass and Media Queries](http://sasscast.tumblr.com/post/38673939456/sass-and-media-queries)
 * [Inline or Combined Media queries? Fight!](http://benfrain.com/inline-or-combined-media-queries-in-sass-fight/)

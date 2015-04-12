@@ -65,7 +65,7 @@ $breakpoints: ('seed': (min-width: 800px), 'sprout': (min-width: 1000px), 'plant
 
 
 
-### Más información
+###### Más información
 
 * [Nomenclaturas para Media Queries -En inglés](http://css-tricks.com/naming-media-queries/)
 
@@ -122,7 +122,7 @@ Una vez que tus puntos de ruptura tengan la nomenclatura deseada, necesitas una 
 
 
 
-### Más información
+###### Más información
 
 * [Gestionando Responsive Breakpoints en Sass -En inglés](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
 * [Enfoques para media queries en Sass -En inglés](http://css-tricks.com/approaches-media-queries-sass/)
@@ -184,7 +184,7 @@ Ahora, si realmente te preocupa las *media queries* duplicadas, puedes usar una 
 
 
 
-### Más información
+###### Más información
 
 * [Sass and Media Queries](http://sasscast.tumblr.com/post/38673939456/sass-and-media-queries)
 * [Media Queries en línea o combinadas, Fight! -En inglés](http://benfrain.com/inline-or-combined-media-queries-in-sass-fight/)

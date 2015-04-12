@@ -75,7 +75,7 @@ Innym słusznym przykładem może być mixin do określenia rozmiarów elementu,
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Sass Mixins to Kickstart your Project](http://www.sitepoint.com/sass-mixins-kickstart-project/)
 * [A Sass Mixin for CSS Triangles](http://www.sitepoint.com/sass-mixin-css-triangles/)
@@ -164,7 +164,7 @@ $params: ( 'c': 'kittens', 'a': true, 'b': 42, )
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Sass Multiple Arguments, Lists or Arglist](http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/)
 
@@ -262,7 +262,7 @@ Proszę mieć jednak na uwadze, że jest to dosyć kiepskie rozwiązanie. Na prz
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Autoprefixer](https://github.com/postcss/autoprefixer)
 * [Building a Linear-Gradient Mixin](http://www.sitepoint.com/building-linear-gradient-mixin-sass/)

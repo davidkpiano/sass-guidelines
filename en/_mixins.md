@@ -75,7 +75,7 @@ Another valid example would be a mixin to size an element, defining both `width`
 
 
 
-### Further reading
+###### Further reading
 
 * [Sass Mixins to Kickstart your Project](http://www.sitepoint.com/sass-mixins-kickstart-project/)
 * [A Sass Mixin for CSS Triangles](http://www.sitepoint.com/sass-mixin-css-triangles/)
@@ -164,7 +164,7 @@ $params: ('c': 'kittens', 'a': true, 'b': 42,)
 
 
 
-### Further reading
+###### Further reading
 
 * [Sass Multiple Arguments, Lists or Arglist](http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/)
 
@@ -262,7 +262,7 @@ Please keep in mind this is a poor solution. For instance, it cannot deal with c
 
 
 
-### Further reading
+###### Further reading
 
 * [Autoprefixer](https://github.com/postcss/autoprefixer)
 * [Building a Linear-Gradient Mixin](http://www.sitepoint.com/building-linear-gradient-mixin-sass/)

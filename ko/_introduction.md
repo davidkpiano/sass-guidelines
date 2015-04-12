@@ -56,7 +56,7 @@ Sass로 쓰인 [bitwise operators](https://github.com/HugoGiraudel/SassyBitwise)
 
 
 
-### 참고
+###### 참고
 
 * [KISS principle](http://en.wikipedia.org/wiki/KISS_principle)
 * [DRY principle](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)

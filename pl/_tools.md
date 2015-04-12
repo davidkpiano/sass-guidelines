@@ -27,7 +27,7 @@ W każdym bądź razie, w żadnym wypadku nie zabraniam używania Compassu, choc
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Compass](http://compass-style.org/)
 * [Sass Frameworks: Compass or Bourbon](http://www.sitepoint.com/compass-or-bourbon-sass-frameworks/)
@@ -52,7 +52,7 @@ Możesz też spróbować czegoś bardziej przyziemnego, choćby [csswizardry-gri
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Singularity](http://singularity.gs/)
 * [Singularity: Grids Without Limits](http://fourword.fourkitchens.com/article/singularity-grids-without-limits)
@@ -88,7 +88,7 @@ Na całe szczęście, rekomendacje SCSS-linta są w wysokim stopniu zbliżone do
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [SCSS-lint](https://github.com/causes/scss-lint)
 * [Clean Up your Sass with SCSS-lint](http://blog.martinhujer.cz/clean-up-your-sass-with-scss-lint/)

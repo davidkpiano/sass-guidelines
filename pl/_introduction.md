@@ -55,7 +55,7 @@ Poza tym, pozwólcie że zacytuję raz jeszcze [Harry’ego Robertsa](https://cs
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Zasada KISS](http://pl.wikipedia.org/wiki/KISS_(reguła))
 * [Zasada DRY](http://pl.wikipedia.org/wiki/DRY)

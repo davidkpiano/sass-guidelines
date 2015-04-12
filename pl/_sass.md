@@ -13,7 +13,7 @@ Jego celem nie jest przekształcenie CSSa w pełnoprawny język programowania z 
 
 Tym samym, istnieje wiele sposobów na korzystanie z tych dodatkowych rozwiązań. Niektóre są poprawne, niektóre mniej, a niektóre też są nadzwyczajne. Ten przewodnik ma na celu przedstawienie spójnego i dobrze udokumentowanego podejścia do pisania kodu w Sassie.
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Sass](http://sass-lang.com)
 * [Sass documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
@@ -35,7 +35,7 @@ W przypadku zaś projektów nieopartych o Ruby, a które wymagają integracji z 
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [LibSass](https://github.com/sass/libsass)
 * [Sass-Compatibility](http://sass-compatibility.github.io)
@@ -60,7 +60,7 @@ Ja osobiście preferuję SCSS nad Sassem z powodu większej kompatybilności z C
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [What’s the difference between Sass and SCSS](http://www.sitepoint.com/whats-difference-sass-scss/)
 
@@ -89,7 +89,7 @@ Podczas gdy umożliwianie korzystania z przyszłej składni jest czymś, co zas�
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [LESS](http://lesscss.org/)
 * [Stylus](http://learnboost.github.io/stylus/)

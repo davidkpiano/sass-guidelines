@@ -78,7 +78,7 @@ $imported-modules: append($imported-modules, $module) !global
 
 
 
-### 참고
+###### 참고
 
 * [CSS Guidelines’ Commenting section](http://cssguidelin.es/#commenting)
 
@@ -203,7 +203,7 @@ SassDoc으로 문서화된 믹신의 예시입니다:
 
 
 
-### 참고
+###### 참고
 
 * [SassDoc](http://sassdoc.com)
 * [SassDoc: a Documentation Tool for Sass](http://www.sitepoint.com/sassdoc-documentation-tool-sass/)

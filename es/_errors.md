@@ -13,7 +13,7 @@ Ahora, hay un montón de espacio en un proyecto Sass para las advertencias y los
 
 
 
-### Más información
+###### Más información
 
 * [Introdución al manejo de errores -En inglés](http://webdesign.tutsplus.com/tutorials/an-introduction-to-error-handling-in-sass--cms-19996)
 * [Construcciones de un Logger Mixin -En inglés](http://webdesign.tutsplus.com/tutorials/building-a-logger-mixin-in-sass--cms-22070)
@@ -85,7 +85,7 @@ $z-indexes: (
   'below': -1,
 );
 
-/// Obtener el valor z-index de una capa 
+/// Obtener el valor z-index de una capa
 /// @access public
 /// @param {String} $layer - nombre de la capa
 /// @return {Number}
@@ -109,7 +109,7 @@ $z-indexes: (
 /// @prop {Number} value - valor Z asignado a la clave
 $z-indexes: ('modal': 5000, 'dropdown': 4000, 'default': 1, 'below': -1,)
 
-/// Obtener el valor z-index de una capa 
+/// Obtener el valor z-index de una capa
 /// @access public
 /// @param {String} $layer - Nombre de la capa
 /// @return {Number}

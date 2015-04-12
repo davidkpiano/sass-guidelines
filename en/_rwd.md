@@ -69,7 +69,7 @@ $breakpoints: ('seed': (min-width: 800px), 'sprout': (min-width: 1000px), 'plant
 
 
 
-### Further reading
+###### Further reading
 
 * [Naming Media Queries](http://css-tricks.com/naming-media-queries/)
 
@@ -133,7 +133,7 @@ Once you have named your breakpoints the way you want, you need a way to use the
 
 
 
-### Further Reading
+###### Further reading
 
 * [Managing Responsive Breakpoints in Sass](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
 * [Approaches to Media Queries in Sass](http://css-tricks.com/approaches-media-queries-sass/)
@@ -195,7 +195,7 @@ Now, if you really are concerned about duplicated media queries, you can still u
 
 
 
-### Further Reading
+###### Further reading
 
 * [Sass and Media Queries](http://sasscast.tumblr.com/post/38673939456/sass-and-media-queries)
 * [Inline or Combined Media queries? Fight!](http://benfrain.com/inline-or-combined-media-queries-in-sass-fight/)

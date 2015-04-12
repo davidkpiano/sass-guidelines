@@ -124,7 +124,8 @@ Las URLs deben ir entre comillas simples por las mismas razones que se explican 
 
 
 
-### Más información
+
+###### Más información
 
 * [Todo lo que necesita saber sobre la interpolación en Sass -En inglés](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
 * [SassyStrings -En inglés](https://github.com/HugoGiraudel/SassyStrings)
@@ -358,7 +359,7 @@ No hace falta decir que **los números mágicos son una plaga y que se deben evi
 
 
 
-### Más información
+###### Más información
 
 * [Usa longitudes, no cadenas -En inglés](http://hugogiraudel.com/2013/09/03/use-lengths-not-strings/)
 * [Añadir correctamente una unidad a un número  -En inglés](http://css-tricks.com/snippets/sass/correctly-adding-unit-number/)
@@ -554,7 +555,7 @@ Si no quieres escribir la función `mix` cada vez que quieras usarla, puedes cre
 
 
 
-### Más información
+###### Más información
 
 * [Guía visual para las funciones de color en Sass y Compass -En inglés](http://jackiebalzer.com/color)
 * [Cómo ir de un color a otro programáticamente  -En inglés](http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass)
@@ -651,7 +652,7 @@ $shadows: $shadows, $shadow
 
 
 
-### Más información
+###### Más información
 
 * [SassyLists -En inglés](http://sassylists.com)
 
@@ -795,7 +796,7 @@ Si tienes interés en conocer la profundidad del mapa, puedes añadir también l
 
 
 
-### Más información
+###### Más información
 
 * [Usando mapas Sass -En inglés](http://www.sitepoint.com/using-sass-maps/)
 * [Depurando mapas Sass -En inglés](http://www.sitepoint.com/debugging-sass-maps/)
@@ -919,7 +920,7 @@ Ejemplo:
 
 
 
-### Más información
+###### Más información
 
 * [Anatomía de un conjunto de reglas -En inglés](http://cssguidelin.es/#anatomy-of-a-ruleset)
 
@@ -1058,7 +1059,7 @@ Debido a esto, no voy a imponer una opción en concreto en esta guía de estilo.
 
 
 
-### Más información
+###### Más información
 
 * [CSS Comb -En inglés](https://github.com/csscomb/csscomb.js)
 * [CSS concentrico -En inglés](https://github.com/brandon-rhodes/Concentric-CSS)
@@ -1307,7 +1308,7 @@ Como con todo, los detalles son algo irrelevante, la coherencia es la clave. Si 
 
 
 
-### Más información
+###### Más información
 
 * [Cuidado con la anidación de selectores -En inglés](http://www.sitepoint.com/beware-selector-nesting-sass/)
 * [La regla del inicio -En inglés](http://thesassway.com/beginner/the-inception-rule)

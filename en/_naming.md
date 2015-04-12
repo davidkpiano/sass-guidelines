@@ -42,7 +42,7 @@ $vertical-rhythm-baseline: 1.5rem
 
 
 
-### Further reading
+###### Further reading
 
 * [CSS Guidelines’ Naming Conventions](http://cssguidelin.es/#naming-conventions)
 
@@ -80,7 +80,7 @@ $css-positions: (top, right, bottom, left, center)
 
 
 
-### Further Reading
+###### Further reading
 
 * [Dealing With Constants in Sass](http://www.sitepoint.com/dealing-constants-sass/)
 
@@ -119,6 +119,6 @@ $su-configuration: ( ... )
   <p>Note that automatic namespacing is definitely a design goal for the upcoming <code>@import</code> revamp from Sass 4.0. As that comes closer to fruition, it will become less and less useful to do manual namespacing; eventually, manually-namespaced libraries may actually be harder to use.</p>
 </div>
 
-### Further reading
+###### Further reading
 
 * [Please Respect the Global CSS Namespace](http://blog.kaelig.fr/post/44554267597/please-respect-the-global-css-namespace)

@@ -124,7 +124,7 @@ URL 역시 위와 동일한 이유로 따옴표로 감싸여야 합니다:
 
 
 
-### 참고
+###### 참고
 
 * [All You Ever Need to Know About Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
 * [SassyStrings](https://github.com/HugoGiraudel/SassyStrings)
@@ -358,7 +358,7 @@ $value: str-slice($length + unquote(''), 1, 2)
 
 
 
-### 참고
+###### 참고
 
 * [Use Lengths, Not Strings](http://hugogiraudel.com/2013/09/03/use-lengths-not-strings/)
 * [Correctly Adding Unit to Number](http://css-tricks.com/snippets/sass/correctly-adding-unit-number/)
@@ -556,7 +556,7 @@ $main-theme-color: $sass-pink
 
 
 
-### 참고
+###### 참고
 
 * [A Visual Guide to Sass & Compass Color Functions](http://jackiebalzer.com/color)
 * [How to Programmatically Go From One Color to Another](http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass)
@@ -654,7 +654,7 @@ $shadows: $shadows, $shadow
 
 
 
-### 참고
+###### 참고
 
 * [SassyLists](http://sassylists.com)
 
@@ -797,7 +797,7 @@ $breakpoints: (
 
 
 
-### 참고
+###### 참고
 
 * [Using Sass Maps](http://www.sitepoint.com/using-sass-maps/)
 * [Debugging Sass Maps](http://www.sitepoint.com/debugging-sass-maps/)
@@ -921,7 +921,7 @@ CSS와 관련된 가이드라인에 더해, 우리는 다음 사항들에 관심
 
 
 
-### 참고
+###### 참고
 
 * [Anatomy of a Ruleset](http://cssguidelin.es/#anatomy-of-a-ruleset)
 
@@ -1060,7 +1060,7 @@ CSS와 관련된 가이드라인에 더해, 우리는 다음 사항들에 관심
 
 
 
-### 참고
+###### 참고
 
 * [CSS Comb](https://github.com/csscomb/csscomb.js)
 * [Concentric CSS](https://github.com/brandon-rhodes/Concentric-CSS)
@@ -1309,7 +1309,7 @@ Sass가 제공하는 기능 중 많은 개발자들에 의해 심하게 남용�
 
 
 
-### 참고
+###### 참고
 
 * [Beware of Selector Nesting](http://www.sitepoint.com/beware-selector-nesting-sass/)
 * [The Inception Rule](http://thesassway.com/beginner/the-inception-rule)

@@ -75,7 +75,7 @@ Otro ejemplo válido sería un *mixin* para para darle tamaño a un elemento, de
 
 
 
-### Más información
+###### Más información
 
 * [Mixins Sass para dar un impulso a tu proyecto -En inglés](http://www.sitepoint.com/sass-mixins-kickstart-project/)
 * [Un mixin de Sass para triángulos CSS -En inglés](http://www.sitepoint.com/sass-mixin-css-triangles/)
@@ -164,7 +164,7 @@ $params: ( 'c': 'kittens', 'a': true, 'b': 42, )
 
 
 
-### Más información
+###### Más información
 
 * [Múltiples argumentos en Sass, Listas o Arglis -En inglés](http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/)
 
@@ -262,7 +262,7 @@ Por favor, ten en cuenta que es una mala solución. Por ejemplo, no puede trabaj
 
 
 
-### Más información
+###### Más información
 
 * [Autoprefixer -En inglés](https://github.com/postcss/autoprefixer)
 * [Contruyendo un mixin para un degradado lineal -En inglés](http://www.sitepoint.com/building-linear-gradient-mixin-sass/)

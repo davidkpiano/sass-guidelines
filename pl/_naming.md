@@ -42,7 +42,7 @@ $vertical-rhythm-baseline: 1.5rem
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [CSS Guidelines’ Naming Conventions](http://cssguidelin.es/#naming-conventions)
 
@@ -80,7 +80,7 @@ $css-positions: top, right, bottom, left, center
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Dealing With Constants in Sass](http://www.sitepoint.com/dealing-constants-sass/)
 
@@ -121,6 +121,6 @@ $sj-configuration: ( ... )
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Please Respect the Global CSS Namespace](http://blog.kaelig.fr/post/44554267597/please-respect-the-global-css-namespace)

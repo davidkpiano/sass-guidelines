@@ -19,7 +19,7 @@ Ja osobiście korzystam z podejścia, które zdaje się być zbliżone do tego u
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Architecture for a Sass project](http://www.sitepoint.com/architecture-sass-project/)
 * [A Look at Different Sass Architectures](http://www.sitepoint.com/look-different-sass-architectures/)
@@ -463,7 +463,7 @@ Pojawił się ostatnio interesujący pomysł, którego twórcami uznać można [
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [shame.css](http://csswizardry.com/2013/04/shame-css/)
 * [shame.css - full .net interview](http://csswizardry.com/2013/04/shame-css-full-net-interview/)

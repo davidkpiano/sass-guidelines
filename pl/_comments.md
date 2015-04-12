@@ -76,7 +76,7 @@ $imported-modules: append($imported-modules, $module) !global
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [CSS Guidelines’ Commenting section](http://cssguidelin.es/#commenting)
 
@@ -201,7 +201,7 @@ Przykład mixinu szczegółowo udokumentowanego z użyciem SassDoc:
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [SassDoc](http://sassdoc.com)
 * [SassDoc: a Documentation Tool for Sass](http://www.sitepoint.com/sassdoc-documentation-tool-sass/)

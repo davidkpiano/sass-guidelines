@@ -17,7 +17,7 @@ Yo mismo, utilizo un método que resulta ser bastante similar a [SMACSS](https:/
 
 
 
-### Más información
+###### Más información
 
 * [Arquitectura para un proyecto Sass -En inglés](http://www.sitepoint.com/architecture-sass-project/)
 * [Una mirada a las diferentes arquitecturas Sass -En inglés](http://www.sitepoint.com/look-different-sass-architectures/)
@@ -456,7 +456,7 @@ Hay un concepto interesante que ha popularizado [Harry Roberts](http://csswizard
 
 
 
-### Más información
+###### Más información
 
 * [shame.css -En inglés](http://csswizardry.com/2013/04/shame-css/)
 * [shame.css - Entrevista .net completa -En inglés](http://csswizardry.com/2013/04/shame-css-full-net-interview/)

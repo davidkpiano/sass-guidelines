@@ -17,7 +17,7 @@ Personnellement j’utilise une approche assez similaire à [SMACSS](https://sma
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [Architecture for a Sass project](http://www.sitepoint.com/architecture-sass-project/)
 * [A Look at Different Sass Architectures](http://www.sitepoint.com/look-different-sass-architectures/)
@@ -464,7 +464,7 @@ Il existe un concept intéressant, popularisé par [Harry Roberts](http://csswiz
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [shame.css](http://csswizardry.com/2013/04/shame-css/)
 * [shame.css - full .net interview](http://csswizardry.com/2013/04/shame-css-full-net-interview/)

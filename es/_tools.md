@@ -28,7 +28,7 @@ De todas formas, no prohíbo el uso de Compass aunque tampoco lo recomiendo, esp
 
 
 
-### Más información
+###### Más información
 
 * [Compass -En inglés](http://compass-style.org/)
 * [Frameworks Sass: Compass o Bourbon -En inglés](http://www.sitepoint.com/compass-or-bourbon-sass-frameworks/)
@@ -52,7 +52,7 @@ Si no trabajas con un sistema de retícula específico, estarás complacido al s
 O puedes trabajar con algo más casual, como [csswizardry-grids](https://github.com/csswizardry/csswizardry-grids). Con todo, la elección no tendrá mucho impacto en tu estilo de programación, así que todo depende de ti llegados a este punto.
 
 
-### Más información
+###### Más información
 
 * [Singularity - En inglés](http://singularity.gs/)
 * [Singularity: Réticulas sin límites -En inglés](http://fourword.fourkitchens.com/article/singularity-grids-without-limits)
@@ -88,7 +88,7 @@ Afortunadamente, las recomendaciones para limpiar el código con SCC-lint son mu
 
 
 
-### Más información
+###### Más información
 
 * [SCSS-lint -En inglés](https://github.com/causes/scss-lint)
 * [Limpia tu Sass con SCSS-lint -En inglés](http://blog.martinhujer.cz/clean-up-your-sass-with-scss-lint/)

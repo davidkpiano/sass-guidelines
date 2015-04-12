@@ -64,7 +64,7 @@ Para resumir, te **aconsejo no usar la directiva `@extend`**, salvo en circunsta
 
 
 
-### Más información
+###### Más información
 
 * [Lo que nadie te dijo acerca de Sass Extend -En inglés](http://www.sitepoint.com/sass-extend-nobody-told-you/)
 * [¿Por qué deberías evistar Extend?](http://www.sitepoint.com/avoid-sass-extend/)

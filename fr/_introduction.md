@@ -56,7 +56,7 @@ Encore une citation de [Harry Roberts](https://csswizardry.com)&nbsp;: **le prag
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [Principe KISS](http://fr.wikipedia.org/wiki/Principe_KISS)
 * [Principe DRY](http://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas)

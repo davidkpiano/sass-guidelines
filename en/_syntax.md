@@ -197,7 +197,7 @@ URLs should be quoted as well, for the same reasons as above:
 
 
 
-### Further Reading
+###### Further reading
 
 * [All You Ever Need to Know About Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
 * [SassyStrings](https://github.com/HugoGiraudel/SassyStrings)
@@ -431,7 +431,7 @@ Needless to say **magic numbers are a plague and should be avoided at all costs*
 
 
 
-### Further reading
+###### Further reading
 
 * [Use Lengths, Not Strings](http://hugogiraudel.com/2013/09/03/use-lengths-not-strings/)
 * [Correctly Adding Unit to Number](http://css-tricks.com/snippets/sass/correctly-adding-unit-number/)
@@ -629,7 +629,7 @@ If you don’t want to write the `mix` function every time, you can create two e
 
 
 
-### Further reading
+###### Further reading
 
 * [A Visual Guide to Sass & Compass Color Functions](http://jackiebalzer.com/color)
 * [How to Programmatically Go From One Color to Another](http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass)
@@ -730,7 +730,7 @@ $shadows: $shadows, $shadow
 
 
 
-### Further reading
+###### Further reading
 
 * [Understanding Sass lists](http://hugogiraudel.com/2013/07/15/understanding-sass-lists/)
 * [SassyLists](http://sassylists.com)
@@ -874,7 +874,7 @@ If you are interested in knowing the depth of the map, add the following functio
 
 
 
-### Further reading
+###### Further reading
 
 * [Using Sass Maps](http://www.sitepoint.com/using-sass-maps/)
 * [Debugging Sass Maps](http://www.sitepoint.com/debugging-sass-maps/)
@@ -999,7 +999,7 @@ Illustration:
 
 
 
-### Further reading
+###### Further reading
 
 * [Anatomy of a Ruleset](http://cssguidelin.es/#anatomy-of-a-ruleset)
 
@@ -1138,7 +1138,7 @@ Because of this, I will not impose a choice in this styleguide. Pick the one you
 
 
 
-### Further reading
+###### Further reading
 
 * [CSS Comb](https://github.com/csscomb/csscomb.js)
 * [Concentric CSS](https://github.com/brandon-rhodes/Concentric-CSS)
@@ -1387,7 +1387,7 @@ As with everything, the specifics are somewhat irrelevant, consistency is key. I
 
 
 
-### Further reading
+###### Further reading
 
 * [Beware of Selector Nesting](http://www.sitepoint.com/beware-selector-nesting-sass/)
 * [The Inception Rule](http://thesassway.com/beginner/the-inception-rule)

@@ -18,7 +18,7 @@ CSS 프로젝트를 위한 잘 알려진 설계 양식들이 많이 있습니다
 
 
 
-### 참고
+###### 참고
 
 * [Architecture for a Sass project](http://www.sitepoint.com/architecture-sass-project/)
 * [A Look at Different Sass Architectures](http://www.sitepoint.com/look-different-sass-architectures/)
@@ -457,7 +457,7 @@ sass/
 
 
 
-### 참고
+###### 참고
 
 * [shame.css](http://csswizardry.com/2013/04/shame-css/)
 * [shame.css - full .net interview](http://csswizardry.com/2013/04/shame-css-full-net-interview/)

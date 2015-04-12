@@ -64,7 +64,7 @@ To sum up, I would **advise against using the `@extend` directive**, unless unde
 
 
 
-### Further reading
+###### Further reading
 
 * [What Nobody Told you About Sass Extend](http://www.sitepoint.com/sass-extend-nobody-told-you/)
 * [Why You Should Avoid Extend](http://www.sitepoint.com/avoid-sass-extend/)

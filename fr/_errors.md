@@ -15,7 +15,7 @@ Il y a bien des possibilités d’avertissements et d’erreurs dans Sass, n’i
 
 
 
-### Lectures complémentaires
+###### Lectures complémentaires
 
 * [An Introduction To Error Handling](http://webdesign.tutsplus.com/tutorials/an-introduction-to-error-handling-in-sass--cms-19996)
 * [Building a Logger Mixin](http://webdesign.tutsplus.com/tutorials/building-a-logger-mixin-in-sass--cms-22070)

@@ -17,7 +17,8 @@ I, myself, use an approach that happens to be quite similar to [SMACSS](https://
 
 
 
-### Further reading
+###### Further reading
+
 
 * [Architecture for a Sass project](http://www.sitepoint.com/architecture-sass-project/)
 * [A Look at Different Sass Architectures](http://www.sitepoint.com/look-different-sass-architectures/)
@@ -456,7 +457,7 @@ There is an interesting concept that has been made popular by [Harry Roberts](ht
 
 
 
-### Further reading
+###### Further reading
 
 * [shame.css](http://csswizardry.com/2013/04/shame-css/)
 * [shame.css - full .net interview](http://csswizardry.com/2013/04/shame-css-full-net-interview/)

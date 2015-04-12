@@ -14,7 +14,7 @@ La idea no es convertir a CSS en un lenguaje de programación totalmente funcion
 Dicho esto, hay muchas formas de utilizar estas funciones. Algunas buenas, algunas malas y otras que son poco comunes. Estas pautas tienen como finalidad darte un enfoque coherente y documentado para escribir código Sass.
 
 
-### Más infomación
+###### Más infomarción
 
 * [Sass - En inglés](http://sass-lang.com)
 * [Documentación de Sass - En inglés](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
@@ -36,7 +36,7 @@ En los proyectos que no están en Ruby, pero que necesitan una integración en t
 
 
 
-### Más información
+###### Más información
 
 * [LibSass - En inglés](https://github.com/sass/libsass)
 * [Compatibiladad Sass - En inglés](http://sass-compatibility.github.io)
@@ -49,7 +49,7 @@ En los proyectos que no están en Ruby, pero que necesitan una integración en t
 
 ## Sass o SCSS
 
-Hay una gran confusión con respecto a la semántica de *Sass* y por una buena razón: Sass nombra tanto al preprocesador como a su propia sintaxis. No muy adecuado ¿verdad? 
+Hay una gran confusión con respecto a la semántica de *Sass* y por una buena razón: Sass nombra tanto al preprocesador como a su propia sintaxis. No muy adecuado ¿verdad?
 
 Inicialmente, Sass describía una sintaxis en la que su caractarística principal era la de ser sensible a espacios en blanco y tabulaciones. Rápidamente, quienes mantienen Sass dicidieron cerrar la brecha entre Sass y CSS, proporcionando una sintaxis compatible con CSS llamada *SCSS* también conocida como *Sassy CSS*. Su lema es: si es CSS válido, es SCSS válido.
 
@@ -61,7 +61,7 @@ Personalmente, prefiero SCSS a Sass ya que es mucho más amigable y parecido a C
 
 
 
-### Más información
+###### Más información
 
 * [¿Cuál es la diferencia entre Sass y SCSS? - En inglés](http://www.sitepoint.com/whats-difference-sass-scss/)
 
@@ -80,7 +80,7 @@ Lo que me gusta de Sass es su enfoque conservardor con CSS. El diseño de Sass s
 
 En otras palabras, Sass no es un preprocesador destinado a complacer a los empollones que quieren-ser-programadores como yo, al añadir características extraordinarias sobre un lenguaje que no está destinado a soportar todos y cada uno de los casos de uso. Es un software orientado a la solución de problemas reales; ayudando a proporcionar funcionalidades útiles para CSS, justo donde CSS se queda corto.
 
-Preprocesadores aparte, es necesario mencionar también a los post-procesadores, los cuales han recibido mucha atención en los últimos meses, gracias especialmente a [PostCSS](https://github.com/postcss/postcss) y [cssnext](https://cssnext.github.io/). Los post-procesadores son más o menos el equivalente a los preprocesadores, excepto porque estos no proporcionan ninguna otra cosa que no sea la inminente sintaxis CSS. 
+Preprocesadores aparte, es necesario mencionar también a los post-procesadores, los cuales han recibido mucha atención en los últimos meses, gracias especialmente a [PostCSS](https://github.com/postcss/postcss) y [cssnext](https://cssnext.github.io/). Los post-procesadores son más o menos el equivalente a los preprocesadores, excepto porque estos no proporcionan ninguna otra cosa que no sea la inminente sintaxis CSS.
 
 Piensa en un post-procesador como un *polyfill* para características no soportadas por CSS. Por ejemplo, podrías escribir variables tal y como se describen en las [especificaciones de CSS](http://dev.w3.org/csswg/css-variables/), y luego, compilar tus hojas de estilo con un post-procesador solo para darte cuenta que cada vez que aparece la variable, ésta es reemplazada con su valor, tal y como haría Sass.
 
@@ -91,7 +91,7 @@ Aunque proporcionar la sintaxis del mañana parezca una idea noble, tengo que de
 
 
 
-### Más información
+###### Más información
 
 * [LESS - En inglés](http://lesscss.org/)
 * [Stylus - En inglés](http://learnboost.github.io/stylus/)

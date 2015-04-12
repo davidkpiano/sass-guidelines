@@ -124,7 +124,7 @@ Adresy URL także powinny być otaczane cudzysłowami, z tych samych powodów:
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [All You Ever Need to Know About Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375)
 * [SassyStrings](https://github.com/HugoGiraudel/SassyStrings)
@@ -362,7 +362,7 @@ Rzecz jasna, **liczby magiczne są plagą i powinny być unikane za wszelką cen
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Use Lengths, Not Strings](http://hugogiraudel.com/2013/09/03/use-lengths-not-strings/)
 * [Correctly Adding Unit to Number](http://css-tricks.com/snippets/sass/correctly-adding-unit-number/)
@@ -565,7 +565,7 @@ Jeśli nie chcesz używać pełnej funkcji `mix` za każdym razem, możesz stwor
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [A Visual Guide to Sass & Compass Color Functions](http://jackiebalzer.com/color)
 * [How to Programmatically Go From One Color to Another](http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass)
@@ -663,7 +663,7 @@ $shadows: $shadows, $shadow
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [SassyLists](http://sassylists.com)
 
@@ -806,7 +806,7 @@ Jeśli jesteś zainteresowany głębokością danej mapy, dodaj również poniż
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Using Sass Maps](http://www.sitepoint.com/using-sass-maps/)
 * [Debugging Sass Maps](http://www.sitepoint.com/debugging-sass-maps/)
@@ -930,7 +930,7 @@ Przykład:
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Anatomy of a Ruleset](http://cssguidelin.es/#anatomy-of-a-ruleset)
 
@@ -1070,7 +1070,7 @@ Z tego też powodu nie mam zamiaru odgórnie narzucać określonego sposobu sort
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [CSS Comb](https://github.com/csscomb/csscomb.js)
 * [Concentric CSS](https://github.com/brandon-rhodes/Concentric-CSS)
@@ -1321,7 +1321,7 @@ Jak we wszystkich sytuacjach, kluczem jest zawsze spójność. Jeśli czujesz si
 
 
 
-### Dalsze informacje
+###### Dalsze informacje
 
 * [Beware of Selector Nesting](http://www.sitepoint.com/beware-selector-nesting-sass/)
 * [The Inception Rule](http://thesassway.com/beginner/the-inception-rule)

@@ -56,7 +56,7 @@ También, si me permites que cite a [Harry Roberts](https://csswizardry.com) una
 
 
 
-### Más información
+###### Más información
 
 * [El principio KISS](http://es.wikipedia.org/wiki/Principio_KISS)
 * [El principio DRY](http://es.wikipedia.org/wiki/No_te_repitas)
